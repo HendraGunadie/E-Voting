@@ -1,5 +1,7 @@
 # 🗳️ E-Voting System
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=hendragunadie.E-Voting)
+
 Sistem E-Voting sederhana berbasis web yang memungkinkan pengguna untuk melakukan voting secara digital. Aplikasi ini sangat cocok digunakan untuk keperluan seperti pemilihan OSIS, voting internal organisasi, musyawarah pemilihan ketua, maupun kegiatan demokratis lainnya yang membutuhkan proses pemungutan suara yang efisien, aman, dan transparan.
 
 ---
