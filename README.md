@@ -12,7 +12,7 @@ Sistem E-Voting sederhana yang memungkinkan pengguna untuk melakukan voting seca
 
 ## 📦 Library yang Digunakan
 
-Proyek ini menggunakan [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet.git) untuk mendukung fitur **import data dari Excel** (misalnya: data pemilih atau kandidat).
+Proyek ini menggunakan [PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet.git)[![PhpSpreadsheet](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PHPOffice/PhpSpreadsheet.git) untuk mendukung fitur **import data dari Excel** (misalnya: data pemilih atau kandidat).
 
-[![PhpSpreadsheet](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/PHPOffice/PhpSpreadsheet.git)
+
 
